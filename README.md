@@ -1,0 +1,2 @@
+# jimmy
+study app resources
